@@ -10,7 +10,6 @@ Overview:
   A battle will end when either your character or your opponent's life gets down to 0.
 
 # Classes:
-
  Game 
  ----------
  This class will have a loop which allows you to either start a battle or exit. If you choose to start a battle, there will be a menu to select your character and your opponent's character. Those will be passed into the Battle object's constructor to seed a battle, and the battle will start (more details below). 
